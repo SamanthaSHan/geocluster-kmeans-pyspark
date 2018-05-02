@@ -8,7 +8,7 @@ We have implemented K-means algorithm for Euclidean and Great Circle distance me
 
 This is a driver that parses an input file and processes it. It takes following 4 command line arguments
 
-    <input\_path> <output\_path> <distance\_measure> <k>
+    <input_path> <output_path> <distance_measure> <k>
 where **input\_path** is the path to the input data (e.g. home/cloudera/cse427/final_project/dbpedia), **output\_path** is the path where output data should be saved, **distance\_measure** is either “Euclidean” or “GreatCircle” (case-insensitive), and **k** is an integer larger than 0.
 
 **point\_utils.py**
