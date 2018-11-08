@@ -15,12 +15,16 @@ where **input\_path** is the path to the input data (e.g. home/cloudera/cse427/f
 
 This is a collection of helper functions used in **kmeans.py** 
 
+> **Our project was the top-ranked**
+> ![](427Final.png)  
 
 **Contributors**
 
-* Samantha Han (samantha.han@wustl.edu)
-* Hakkyung Lee (hakkyung@wustl.edu)
+* [Samantha Han][SH](samantha.han@wustl.edu)
+* [Hakkyung Lee][HL] (hakkyung@wustl.edu)
 * Skylar Nam (nam@wustl.edu)
 * Zefang Tang (zefang@wustl.edu)
 
 
+[SH]: <https://github.com/SamanthaSHan>
+[HL]: <https://github.com/hklee93>
